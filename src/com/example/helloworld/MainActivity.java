@@ -1,4 +1,4 @@
-package com.gclue.helloworld;
+package com.example.helloworld;
 
 import android.app.Activity;
 import android.os.Bundle;
